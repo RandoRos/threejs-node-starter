@@ -1,3 +1,5 @@
+import '../public/stylesheet.scss';
+
 const foo = () => 'Bar';
 
 console.log('It`\'s working!');
